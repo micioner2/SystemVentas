@@ -56,7 +56,7 @@
                   <li class="user-header">
                     <img src="{{asset("assets/$theme/dist/img/user2-160x160.jpg")}}" class="img-circle" alt="User Image">
                     <p>
-                      <small>Miembro desde: 2019</small>
+                      <small>Miembro desde: {}</small>
                     </p>
                   </li>
                   <!-- Menu Body -->

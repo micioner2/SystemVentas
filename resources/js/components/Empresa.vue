@@ -20,7 +20,8 @@
                                         <th>Telf</th>
                                         <th>Logo</th>
                                     </tr>
-                                </thead>0
+                                </thead>
+                                
                                 <tbody>
                                     <tr v-for="(empresa,index) in arrayEmpresa" :key="index">
                                         <td>
