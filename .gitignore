@@ -4,7 +4,7 @@
 /public/hot
 /public/thumbnail
 /public/storage
-/public/assets/lte
+# /public/assets/lte
 /storage/*.key
 /vendor
 # .env
